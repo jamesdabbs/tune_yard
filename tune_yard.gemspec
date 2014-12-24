@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jamesdabbs@gmail.com"]
   spec.summary       = %q{A simple remote for SonicPi}
   #spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/jamesdabbs/tune_yard"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
